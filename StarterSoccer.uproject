@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "F2C65483-C4AC-47A8-830B-C8C33CC2E9F9",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StarterSoccer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
